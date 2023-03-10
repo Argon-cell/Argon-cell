@@ -32,7 +32,7 @@ Currently working at [copsnades](https://testflight.apple.com/join/usU0RBln)
 GitHub - [@Argon-cell](https://github.com/Argon-cell)\
 Telegram - [@inafik0v](https://inafik0v.t.me/)\
 Mail - [n4fikov.ilgam@gmail.com](mailto:\n4fikov.ilgam@gmail.com)\
-VK - [@i.nafikov](https://vk.com/i.nafik0v)\
+VK - [@i.nafikov](https://vk.com/i.nafik0v)
 
 ## Stats
 [![Ilgam Nafikov's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Argon-cell&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
