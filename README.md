@@ -3,7 +3,7 @@ Hi, I am **Ilgam Nafikov**, 20 y. o., iOS Developer\
 Currently working at [copsnades](https://testflight.apple.com/join/usU0RBln)
 
 ## Work experience
-Need to fix, lol
+Will update soon
 
 ## Skills
 - Swift, SwiftLint, SwiftFormat
