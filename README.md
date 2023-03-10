@@ -110,20 +110,14 @@ VK - [@levochkaa](https://github.com/levochkaa/)\
 </p>
 
 ## Other Skills
-- **Python** - scripting, backend, parsing/scraping, telegram bots, requests, many different APIs
-- **GameDev** (Unity + C#) - arcade (mobile) games, one in Google Play
-- **Flutter**, **Dart** (few months, switched back to SwiftUI)
-- **PostgreSQL**, **SQLite**
+- **Python** - scripting, backend, parsing/scraping, telegram/discord/vk bots, requests, many different APIs
+- **PostgreSQL**, **SQLite**, **Firebase**
 - **Arduino** with **C++**
-- Rewriting Python code to C++ on **olimpiads** to make it more efficient
-- **Processing**, **Scratch**, **Frontend (HTML, CSS)** - a bit, don't like these
+- **Frontend (HTML, CSS)** - a bit, don't like these
 
 ## Hobbies
 ### Video games
-- Apex Legends
-- Hollow Knight
-- Red Dead Redemption 2
-- Terraria/tModLoader
+- Counter-strike Global Offensive
 - Dead Cells
-- Metro 2033/Last Light/Exodus
-- Battlefield 1/5
+- Critical Ops
+- PUBG
