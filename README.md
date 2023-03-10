@@ -39,7 +39,7 @@ Mail - [levochkaaa@icloud.com](mailto:\levochkaaa@icloud.com)
 VK - [@levochkaa](https://github.com/levochkaa/)\
 
 ## Stats
-[![Lev Poznyakov's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=levochkaa&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Ilgam Nafikov's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Argon-cell&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Had experience with (just cool icons)
 <p align="left"> 
