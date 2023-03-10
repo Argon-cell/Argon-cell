@@ -35,7 +35,7 @@ Mail - [n4fikov.ilgam@gmail.com](mailto:\n4fikov.ilgam@gmail.com)\
 VK - [@i.nafikov](https://vk.com/i.nafik0v)
 
 ## Stats
-[![Ilgam Nafikov's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Argon-cell&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Argon-cell's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Argon-cell&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Other Skills
 - **Python** - scripting, backend, parsing/scraping, telegram/discord/vk bots, requests, many different APIs
