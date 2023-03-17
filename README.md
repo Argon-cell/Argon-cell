@@ -1,32 +1,26 @@
 # Argon-cell
 I am **Ilgam Nafikov**, 20 y.o., iOS Developer\
-Currently working at [copsnades](https://testflight.apple.com/join/usU0RBln)
+Currently working at [copsnades](https://apps.apple.com/ru/app/copsnades/id6446145365)
 
 ## Work experience
 
 ## Skills
-<!-- - Swift, SwiftLint, SwiftFormat
+- Swift, SwiftLint
 - SwiftUI, Combine, MVVM
-- SwiftUIX, Introspect, Lottie, VLCKit
-- TDLibKit, WalletCore
 - SOLID, DRY, KISS
-- Fastlane, Tuist
-- Firebase, CoreData, UserDefaults, ParseSwift
-- Foundation, MediaPlayer, AVKit, MapKit, PhotosUI, CoreLocation, UserNotifications (Local only)
-- URLSession, FileManager, JSON, async/await, GCD
-- Amplitude, ApphudSDK, Yandex Appmetrica, FacebookCore
-- SpriteKit, SnapKit, UIKit (Storyboard, code) - few months of learning, switched back to SwiftUI
+- Firebase, UserDefaults
+- Foundation, MediaPlayer, AVKit
+- URLSession, JSON, async/await, GCD
+- UIKit (Storyboard, code) - few months of learning, switched back to SwiftUI
 - XCode, SPM, CocoaPods
-- Git, GitHub, Fork, SourceTree
+- Git, GitHub
 - Trello, Things
 - Figma, Adobe Photoshop
-- English Intermediate B1-B2 -->
+- English Intermediate B1-B2
 
 ### Courses/books
-<!-- - [100 days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
-- [100 days of Swift (UIKit)](https://www.hackingwithswift.com/100)
-- [Mastering SwiftUI (iOS 15) by AppCoda](https://www.appcoda.com/swiftui/)
-- [Ian Solomein SwiftUI Basics](https://www.youtube.com/playlist?list=PLUb9K99oQb2t7TIFVQbht6KxWvJApvRu4) -->
+- [Vasiliy Usov Swift. Fundamentals of app development for iOS, iPadOS and macOS](https://www.litres.ru/vasiliy-usov/swift-osnovy-razrabotki-prilozheniy-pod-ios-i-macos-24426226/otzivi/)
+- [Ian Solomein SwiftUI Basics](https://www.youtube.com/playlist?list=PLUb9K99oQb2t7TIFVQbht6KxWvJApvRu4)
 
 ## Contacts
 GitHub - [@Argon-cell](https://github.com/Argon-cell)\
