@@ -1,5 +1,5 @@
 # Argon-cell
-I am **Ilgam Nafikov**, 20 y.o., iOS Developer\
+I am **Ilgam Nafikov**, iOS Developer\
 Currently working at [copsnades](https://apps.apple.com/ru/app/copsnades/id6446145365)
 
 ## Work experience
