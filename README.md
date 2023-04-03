@@ -11,7 +11,7 @@ Currently working at [copsnades](https://apps.apple.com/ru/app/copsnades/id64461
 - Firebase, UserDefaults
 - Foundation, MediaPlayer, AVKit
 - URLSession, JSON, async/await, GCD
-- UIKit (Storyboard, code) - few months of learning, switched back to SwiftUI
+- UIKit (Storyboard, code) - few months of learning
 - XCode, SPM, CocoaPods
 - Git, GitHub
 - Trello, Things
