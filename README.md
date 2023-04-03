@@ -10,7 +10,7 @@ Currently working at [copsnades](https://apps.apple.com/ru/app/copsnades/id64461
 - SOLID, DRY, KISS
 - Firebase, UserDefaults
 - Foundation, MediaPlayer, AVKit
-- URLSession, JSON, async/await, GCD
+- URLSession, JSON, async/await, GCD, ARC
 - UIKit (Storyboard, code) - few months of learning
 - XCode, SPM, CocoaPods
 - Git, GitHub
