@@ -21,6 +21,7 @@ Currently working at [copsnades](https://apps.apple.com/ru/app/copsnades/id64461
 ### Courses/books
 - [Vasiliy Usov Swift. Fundamentals of app development for iOS, iPadOS and macOS](https://www.litres.ru/vasiliy-usov/swift-osnovy-razrabotki-prilozheniy-pod-ios-i-macos-24426226/otzivi/)
 - [Ian Solomein SwiftUI Basics](https://www.youtube.com/playlist?list=PLUb9K99oQb2t7TIFVQbht6KxWvJApvRu4)
+- [Vamsee Puligaddaa 1000 iOS Interview Questions](https://drive.google.com/file/d/1ZeOrQGU9EDe_pLgnGILHZxxdWVxkkivZ/view?usp=sharing)
 
 ## Contacts
 GitHub - [@Argon-cell](https://github.com/Argon-cell)\
