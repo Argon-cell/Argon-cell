@@ -7,6 +7,7 @@ Currently working at [copsnades](https://apps.apple.com/ru/app/copsnades/id64461
 ## Skills
 - Swift, SwiftLint
 - SwiftUI, Combine, MVVM, MVC
+- Human Interface Guidline
 - SOLID, DRY, KISS
 - Firebase, UserDefaults
 - Foundation, AVKit
