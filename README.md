@@ -9,10 +9,10 @@ Currently working at [copsnades](https://apps.apple.com/ru/app/copsnades/id64461
 - SwiftUI, Combine, MVVM, MVC
 - Human Interface Guidline
 - SOLID, DRY, KISS
-- Firebase, UserDefaults
+- Firebase, UserDefaults, SQLite
 - Foundation, AVKit
 - URLSession, JSON, async/await, GCD, ARC
-- UIKit (Storyboard, code) - few months of learning
+- UIKit (Storyboard[xib], programatially) - few months of learning, active learning rn
 - XCode, SPM, CocoaPods
 - Git, GitHub
 - Trello, Things
