@@ -11,7 +11,7 @@ Currently working at [copsnades](https://apps.apple.com/ru/app/copsnades/id64461
 - SOLID, DRY, KISS
 - Firebase, UserDefaults, SQLite
 - Foundation, AVKit
-- URLSession, JSON, async/await, GCD, ARC
+- URLSession, JSON, async/await, GCD, Thread, NSOperations, NSLock, ARC, MRC
 - UIKit (Storyboard[xib], programatially) - few months of learning, active learning rn
 - XCode, SPM, CocoaPods
 - Git, GitHub
