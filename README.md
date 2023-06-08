@@ -1,6 +1,9 @@
 # Argon-cell
 I am **Ilgam Nafikov**, iOS Developer\
-Currently working at [copsnades](https://apps.apple.com/ru/app/copsnades/id6446145365)
+Currently studing at Yandex School Mobile Development
+
+Past works:
+[copsnades](https://apps.apple.com/ru/app/copsnades/id6446145365)
 
 ## Work experience
 
@@ -12,7 +15,7 @@ Currently working at [copsnades](https://apps.apple.com/ru/app/copsnades/id64461
 - Firebase, UserDefaults, SQLite
 - Foundation, AVKit
 - URLSession, JSON, async/await, GCD, Thread, NSOperations, NSLock, ARC, MRC
-- UIKit (Storyboard[xib], programatially) - few months of learning, active learning rn
+- UIKit (Storyboard[xib], programatially) - active learning right now
 - XCode, SPM, CocoaPods
 - Git, GitHub
 - Trello, Things
@@ -23,6 +26,7 @@ Currently working at [copsnades](https://apps.apple.com/ru/app/copsnades/id64461
 - [Vasiliy Usov Swift. Fundamentals of app development for iOS, iPadOS and macOS](https://www.litres.ru/vasiliy-usov/swift-osnovy-razrabotki-prilozheniy-pod-ios-i-macos-24426226/otzivi/)
 - [Ian Solomein SwiftUI Basics](https://www.youtube.com/playlist?list=PLUb9K99oQb2t7TIFVQbht6KxWvJApvRu4)
 - [Vamsee Puligaddaa 1000 iOS Interview Questions](https://drive.google.com/file/d/1ZeOrQGU9EDe_pLgnGILHZxxdWVxkkivZ/view?usp=sharing)
+- [Computer Science Guide, Extended Edition](https://www.litres.ru/book/vilyam-springer/gid-po-computer-science-rasshirennoe-izdanie-64082076/)
 
 ## Contacts
 GitHub - [@Argon-cell](https://github.com/Argon-cell)\
