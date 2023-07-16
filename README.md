@@ -1,6 +1,6 @@
 # Argon-cell
 I am **Ilgam Nafikov**, iOS Developer\
-Currently studing at Yandex School Mobile Development
+Currently studing at Yandex School of Mobile Development
 
 Past works:
 [copsnades](https://apps.apple.com/ru/app/copsnades/id6446145365)
