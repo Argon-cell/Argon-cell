@@ -8,15 +8,17 @@ Past works:
 ## Work experience
 
 ## Skills
-- Swift, SwiftLint
+- Swift, SwiftLint, SwiftFormat
 - SwiftUI, Combine, MVVM, MVC
 - Human Interface Guidline
-- SOLID, DRY, KISS
-- Firebase, UserDefaults, SQLite
-- Foundation, AVKit
+- SOLID, DRY, KISS, OOP, POP
+- Firebase, UserDefaults, SQLite, CoreData
+- Foundation, AVKit, CocoaLumperJack
 - URLSession, JSON, async/await, GCD, Thread, NSOperations, NSLock, ARC, MRC
-- UIKit (Storyboard[xib], programatially) - active learning right now
-- XCode, SPM, CocoaPods
+- UIKit (Storyboard[xib], programatially)
+- XCode, SPM, CocoaPods, Xcodegen
+- REST, WebScoket (a bit)
+- Unit-testing, UI-testing (a bit)
 - Git, GitHub
 - Trello, Things
 - Figma, Adobe Photoshop
