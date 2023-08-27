@@ -1,6 +1,8 @@
 # Argon-cell
 I am **Ilgam Nafikov**, iOS Developer\
-Currently studing at Yandex School of Mobile Development
+
+Past courses:
+[Yandex School of Mobile Development](https://yandex.ru/yaintern/schools/mobile)
 
 Past works:
 [copsnades](https://apps.apple.com/ru/app/copsnades/id6446145365)
@@ -9,19 +11,21 @@ Past works:
 
 ## Skills
 - Swift, SwiftLint, SwiftFormat
-- SwiftUI, Combine, MVVM, MVC
-- Human Interface Guidline
+- SwiftUI, UIKit (storybord/programatially), DivKit / SDUI
+- MVVM, MVC, MVP+C
+- Combine
 - SOLID, DRY, KISS, OOP, POP
 - Firebase, UserDefaults, SQLite, CoreData
-- Foundation, AVKit, CocoaLumperJack
+- Foundation, CocoaLumperJack, AVKit
 - URLSession, JSON, async/await, GCD, Thread, NSOperations, NSLock, ARC, MRC
-- UIKit (Storyboard[xib], programatially)
+- UIKit 
 - XCode, SPM, CocoaPods, Xcodegen
-- REST, WebScoket (a bit)
-- Unit-testing, UI-testing (a bit)
+- REST, WebScoket(a bit)
+- Unit-testing, UI-testing(a bit)
 - Git, GitHub
 - Trello, Things
 - Figma, Adobe Photoshop
+- Human Interface Guidline
 - English Intermediate B1-B2
 
 ### Courses/books
