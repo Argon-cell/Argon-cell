@@ -1,8 +1,8 @@
 # Argon-cell
-I am **Ilgam Nafikov**, iOS Developer\
+I am **Ilgam Nafikov**, iOS Developer
 
 Past courses:
-[Yandex School of Mobile Development](https://yandex.ru/yaintern/schools/mobile)
+[Yandex School of Mobile Development](https://yandex.ru/yaintern/schools/mobile)<br />
 [Yandex Liceym of Python](https://lyceum.yandex.ru)
 
 Past works:
