@@ -3,6 +3,7 @@ I am **Ilgam Nafikov**, iOS Developer\
 
 Past courses:
 [Yandex School of Mobile Development](https://yandex.ru/yaintern/schools/mobile)
+[Yandex Liceym of Python](https://lyceum.yandex.ru)
 
 Past works:
 [copsnades](https://apps.apple.com/ru/app/copsnades/id6446145365)
@@ -18,11 +19,10 @@ Past works:
 - Firebase, UserDefaults, SQLite, CoreData
 - Foundation, CocoaLumperJack, AVKit
 - URLSession, JSON, async/await, GCD, Thread, NSOperations, NSLock, ARC, MRC
-- UIKit 
 - XCode, SPM, CocoaPods, Xcodegen
 - REST, WebScoket(a bit)
 - Unit-testing, UI-testing(a bit)
-- Git, GitHub
+- Git, GitHub, GitLab
 - Trello, Things
 - Figma, Adobe Photoshop
 - Human Interface Guidline
