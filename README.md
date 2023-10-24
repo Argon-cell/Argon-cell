@@ -5,21 +5,23 @@ Past courses: <br />
 [Yandex School of Mobile Development](https://yandex.ru/yaintern/schools/mobile)<br />
 [Yandex Liceym of Python](https://lyceum.yandex.ru)
 
-Past works: <br />
+Past self works: <br />
 [copsnades](https://apps.apple.com/ru/app/copsnades/id6446145365)
 
 ## Work experience
+[Buzzolls](https://apps.apple.com/ru/app/buzzolls/id1449958213) - 1 month
 
 ## Skills
 - Swift, SwiftLint, SwiftFormat
 - SwiftUI, UIKit (storybord/programatially), DivKit / SDUI
+- FloatingView
 - MVVM, MVC, MVP+C
 - Combine
 - SOLID, DRY, KISS, OOP, POP
 - Firebase, UserDefaults, SQLite, CoreData
 - Foundation, CocoaLumperJack, AVKit
 - URLSession, JSON, async/await, GCD, Thread, NSOperations, NSLock, ARC, MRC
-- XCode, SPM, CocoaPods, Xcodegen
+- XCode, SPM, CocoaPods, Xcodegen, Tuist
 - REST, WebScoket(a bit)
 - Unit-testing, UI-testing(a bit)
 - Git, GitHub, GitLab
