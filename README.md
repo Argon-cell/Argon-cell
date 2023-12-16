@@ -9,8 +9,8 @@ Past self works: <br />
 [copsnades](https://apps.apple.com/ru/app/copsnades/id6446145365)
 
 ## Work experience
-[Buzzolls](https://apps.apple.com/ru/app/buzzolls/id1449958213) - 1 month
-
+[Buzzolls](https://apps.apple.com/ru/app/buzzolls/id1449958213) - 2 month
+[Yandex Music](https://apps.apple.com/ru/app/%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0-%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%8B/id520797969) - 2 weeks
 ## Skills
 - Swift, SwiftLint, SwiftFormat
 - SwiftUI, UIKit (storybord/programatially), DivKit / SDUI
@@ -23,7 +23,7 @@ Past self works: <br />
 - URLSession, JSON, async/await, GCD, Thread, NSOperations, NSLock, ARC, MRC
 - XCode, SPM, CocoaPods, Xcodegen, Tuist
 - REST, WebScoket(a bit)
-- Unit-testing, UI-testing(a bit)
+- Unit-testing, UI-testing
 - Git, GitHub, GitLab
 - Trello, Things
 - Figma, Adobe Photoshop
